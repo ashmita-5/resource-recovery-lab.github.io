@@ -1,0 +1,461 @@
+
+Theme name: Rupesh
+Theme data:
+button_component {
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "filled"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "filled"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "filled"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "outlined"
+    }
+    color {
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "text"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "text"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "text"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "outlined"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "outlined"
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+divider_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    color {
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+image_carousel_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    active_dot_color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    active_dot_color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    active_dot_color {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+navigation_component {
+  property_set {
+    side_nav_item_spacing: 12.0
+    side_selection_style: SIDE_BOLD
+    top_nav_separator: NONE
+    top_selection_style: TOP_BOLD
+    transparent_at_top: true
+  }
+}
+scheme_color_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    accent1 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      blue: 1.0
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    accent1 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    accent1 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.10980392
+      green: 0.10980392
+      blue: 0.10980392
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+section_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    background_color {
+      red: 0.9490196
+      green: 0.9372549
+      blue: 0.92941177
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    background_color {
+      red: 0.6901961
+      green: 0.7490196
+      blue: 0.5764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+site_component {
+  property_set {
+    primary_color {
+      red: 0.8509804
+      green: 0.8235294
+      blue: 0.9137255
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+text_component {
+  heading_style {
+    heading: 0
+    paragraph_style {
+      line_spacing: 1.15
+      ltr: true
+      spacing_before: 6.0
+    }
+    text_style {
+      font_size: 12.0
+      foreground {
+        scheme: 0
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+  heading_style {
+    heading: 1
+    paragraph_style {
+      line_spacing: 1.0
+      ltr: true
+      spacing_before: 17.0
+    }
+    text_style {
+      bold: true
+      foreground {
+        scheme: 4
+      }
+      weighted_font_family: "Lora"
+    }
+  }
+  heading_style {
+    heading: 2
+    paragraph_style {
+      line_spacing: 1.15
+      ltr: true
+      spacing_before: 9.0
+    }
+    text_style {
+      bold: true
+      font_size: 18.0
+      foreground {
+        scheme: 5
+      }
+      weighted_font_family: "Lora"
+    }
+  }
+  heading_style {
+    heading: 3
+    paragraph_style {
+      line_spacing: 1.15
+      ltr: true
+      spacing_before: 7.0
+    }
+    text_style {
+      bold: true
+      font_size: 14.0
+      foreground {
+        scheme: 6
+      }
+      weighted_font_family: "Lora"
+    }
+  }
+  heading_style {
+    heading: 102
+    paragraph_style {
+      line_spacing: 1.15
+      ltr: true
+      spacing_before: 4.0
+    }
+    text_style {
+      font_size: 8.0
+      foreground {
+        scheme: 2
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+}
+name: "Rupesh"
+id: "36297277c1ce39e_0"
+spacing_component {
+  property_set {
+    density: COZY
+    frame_selected: false
+  }
+}
+
+----------------------------------------------------
